@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/21 11:00:09.000.764,=C:\Users\tony\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/21 11:00:54.000.992,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Server\uServer.pas=C:\Users\tony\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/21 11:00:54.000.992,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Server\uServer.dfm=C:\Users\tony\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/02/21 11:00:59.000.726,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Server\Server.dproj=C:\Users\tony\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2012/02/21 11:06:07.000.316,=D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas</Transaction>
+    <Transaction>2012/02/21 11:13:03.000.582,D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas=</Transaction>
+    <Transaction>2012/02/21 11:13:39.000.162,=D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas</Transaction>
+    <Transaction>2012/02/21 11:16:25.000.645,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Server\uMyData.pas=D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas</Transaction>
+    <Transaction>2012/02/21 11:17:15.000.938,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Server\uMyData.pas=</Transaction>
+    <Transaction>2012/10/03 15:12:54.000.569,=D:\Testing Code\Indy\D_Id10_TIdTCP傳結構範例\Server\Unit1.pas</Transaction>
+    <Transaction>2012/10/03 15:13:06.000.608,D:\Testing Code\Indy\D_Id10_TIdTCP傳結構範例\UnitGlobal.pas=D:\Testing Code\Indy\D_Id10_TIdTCP傳結構範例\Server\Unit1.pas</Transaction>
+    <Transaction>2014/10/30 15:26:49.000.250,F:\0Testing\Indy\Indy10\D_Id10_TIdTCP傳結構範例\Server\Server1.dproj=F:\0Testing\Indy\Indy10\D_Id10_TIdTCP傳結構範例\Server\Server.dproj</Transaction>
+    <Transaction>2014/11/27 16:37:15.000.746,F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server1.dproj=F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server.dproj</Transaction>
+    <Transaction>2014/11/27 16:38:33.000.185,F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server.dproj=F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server2.dproj</Transaction>
+    <Transaction>2014/11/27 16:40:03.000.707,F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server2.dproj=F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server.dproj</Transaction>
+    <Transaction>2014/11/27 16:40:11.000.052,F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server.dproj=F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server3.dproj</Transaction>
+    <Transaction>2014/12/25 11:26:53.000.317,F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server.dproj=F:\0 Tony XE\D_XE7_TIdTCP傳結構\Server\Server3.dproj</Transaction>
+    <Transaction>2015/01/09 10:57:35.000.903,=J:\D_XE7_TIdTCP_Server_Client_byTony\D_XE7_TIdTCP_Server_Client_byTony\Server\S_log.txt</Transaction>
+    <Transaction>2015/01/09 14:59:44.000.309,=F:\0 Tony XE\D_XE7_TIdTCP_Server_Client_byTony\log.txt</Transaction>
+  </Transactions>
+</BorlandProject>

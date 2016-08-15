@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/21 09:32:13.000.259,=C:\Users\tony\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/02/21 09:57:39.000.021,C:\Users\tony\Documents\RAD Studio\Projects\Unit1.dfm=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Unit1.dfm</Transaction>
+    <Transaction>2012/02/21 09:57:39.000.021,C:\Users\tony\Documents\RAD Studio\Projects\Unit1.pas=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Unit1.pas</Transaction>
+    <Transaction>2012/02/21 09:57:41.000.591,C:\Users\tony\Documents\RAD Studio\Projects\Project1.dproj=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Project1.dproj</Transaction>
+    <Transaction>2012/02/21 10:59:26.000.833,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Project1.dproj=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Client\Client.dproj</Transaction>
+    <Transaction>2012/02/21 10:59:40.000.630,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Unit1.dfm=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Client\uClient.dfm</Transaction>
+    <Transaction>2012/02/21 10:59:40.000.630,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Unit1.pas=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Client\uClient.pas</Transaction>
+    <Transaction>2012/02/21 11:04:38.000.096,=D:\Testing Code\D_Id10_TIdTCP傳結構範例\Client\Unit1.pas</Transaction>
+    <Transaction>2012/02/21 11:05:21.000.224,D:\Testing Code\D_Id10_TIdTCP傳結構範例\Client\Unit1.pas=D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas</Transaction>
+    <Transaction>2012/02/21 11:12:53.000.770,D:\Testing Code\D_Id10_TIdTCP傳結構範例\uMyData.pas=</Transaction>
+    <Transaction>2012/10/03 15:15:17.000.694,=D:\Testing Code\Indy\D_Id10_TIdTCP傳結構範例\UnitGlobal.pas</Transaction>
+    <Transaction>2014/10/30 15:37:48.000.880,=D:\Working\EEW_APP\EEW_mobile\UnitThread.pas</Transaction>
+    <Transaction>2014/10/30 15:37:59.000.806,D:\Working\EEW_APP\EEW_mobile\UnitThread.pas=</Transaction>
+    <Transaction>2014/10/30 15:38:13.000.124,=F:\0Testing\Indy\Indy10\D_Id10_TIdTCP傳結構範例\Client\Unit1.pas</Transaction>
+    <Transaction>2014/10/30 15:38:30.000.732,F:\0Testing\Indy\Indy10\D_Id10_TIdTCP傳結構範例\Client\Unit1.pas=F:\0Testing\Indy\Indy10\D_Id10_TIdTCP傳結構範例\Client\uThread.pas</Transaction>
+    <Transaction>2015/01/09 10:53:51.000.053,=J:\D_XE7_TIdTCP_Server_Client_byTony\D_XE7_TIdTCP_Server_Client_byTony\log.txt</Transaction>
+    <Transaction>2015/01/09 10:56:55.000.522,J:\D_XE7_TIdTCP_Server_Client_byTony\D_XE7_TIdTCP_Server_Client_byTony\log.txt=</Transaction>
+    <Transaction>2015/01/09 14:59:55.000.416,=F:\0 Tony XE\D_XE7_TIdTCP_Server_Client_byTony\log.txt</Transaction>
+  </Transactions>
+</BorlandProject>

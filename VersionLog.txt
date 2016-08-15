@@ -1,0 +1,19 @@
+
+2016/08/15
+一、增強 GUI 的機制
+二、加強註解內容
+三、修正 IdTCPServer1.Contexts.LockList 的機制
+
+2015/10/15
+一、Hsu Neptune 協助, 解決 StopServer 會卡住的問題
+要先 IdTCPServer1.OnDisconnect := nil; 然後去處理結束連線的事
+再把 IdTCPServer1.OnDisconnect :=IdTCPServer1Disconnect;  的事件加回去
+二、onExecute 因為 FMX 不是 thread safe，所以要用 TIdNotify 來同步 Form 裡的元件
+
+2015/09/24
+一、Log記錄加入 Now 的時間
+二、Server 的 active := false; 會卡住，待解
+
+2015/01/09
+一、Server 廣播、或 對單一Client發送
+二、重新整理一下Code
